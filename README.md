@@ -77,6 +77,13 @@ Cisco SG300-20 (Layer 2)
 
 ---
 
+## Network Topology Diagram
+
+![Network Topology](diagrams/Network Diagram.png)
+
+
+---
+
 # VLAN Design
 
 | VLAN | Name | Purpose | Subnet |
