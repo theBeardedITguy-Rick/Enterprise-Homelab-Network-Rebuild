@@ -36,6 +36,19 @@ The purpose of this project was to redesign and stabilize my network after multi
 
 ---
 
+# Key Skills Learned
+
+- Enterprise VLAN segmentation
+- pfSense administration
+- Cisco switch trunk/access configuration
+- Wireless VLAN tagging
+- DHCP reservations
+- Layer 2 switching architecture
+- Network troubleshooting and recovery
+- Infrastructure documentation
+
+---
+
 # Hardware Used
 
 ## Router
@@ -264,20 +277,14 @@ After extensive troubleshooting, performing a clean rebuild was ultimately the b
 
 ---
 
-# Future Plans
+# Future Improvements
 
-Planned future additions include:
-
-- pfBlockerNG
-- Wazuh
-- SIEM monitoring
-- Proxmox VLAN integration
-- Home Assistant
-- Plex segmentation
-- Reverse proxy services
-- VPN hardening
-- IDS/IPS testing
-- Centralized logging
+- [ ] Deploy pfBlockerNG
+- [ ] Configure IDS/IPS
+- [ ] Add Wazuh SIEM
+- [ ] Implement mDNS reflection
+- [ ] Build DMZ firewall policies
+- [ ] Configure VPN remote access
 
 ---
 
