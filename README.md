@@ -53,8 +53,8 @@ The purpose of this project was to redesign and stabilize my network after multi
 
 ## Router
 
-- Supermicro X11SSH-LN4F
-- pfSense CE 2.8.1
+- Supermicro X11SSH-LN4F w/ Intel(R) Xeon(R) CPU E3-1220 v6 @ 3.00GHz 
+- OS pfSense CE 2.8.1
 
 ## Switch
 
